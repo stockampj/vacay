@@ -3,3 +3,8 @@ img {
   width: 25%;
 
 }
+
+.warning {
+  font-weight: bold;
+  color: white;
+}
